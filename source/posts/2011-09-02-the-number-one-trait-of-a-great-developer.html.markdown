@@ -39,4 +39,4 @@ I leave the team to decide if a candidate is smart and fits our culture, but I t
 
 These questions are great for getting a coder to talk passionately about where they've been burned and where they had their mind blown.  You learn a lot about who they really are and where they're coming from.  Which do they fear most: magic or cut-n-paste?  Have they fallen in love with NoSQL stores?  Have they learned when not to use them?   Have they learned the hells inherent in multi-threaded code?  Are they more comfortable in a [Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html), programming functionally, or juggling a bunch of hashes, and why?
 
-**Listen to the *why's*, and not the *what's*, and you'll hear judgement.**
+**Listen to the *why's*, and not the *what's*, and you'll feel judgement.**
